@@ -4,26 +4,12 @@ Approaches or solutions that have been tried before on similar projects.
 
 **Summary of Each Work**:
 
-- **Source 1**: [Title of Source 1]
+- **Source 1**: [Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations},
+  author={Raissi, Maziar and Perdikaris, Paris and Karniadakis, George E]
 
-  - **[Link]()**
-  - **Objective**:
-  - **Methods**:
-  - **Outcomes**:
-  - **Relation to the Project**:
-
-- **Source 2**: [Title of Source 2]
-
-  - **[Link]()**
-  - **Objective**:
-  - **Methods**:
-  - **Outcomes**:
-  - **Relation to the Project**:
-
-- **Source 3**: [Title of Source 3]
-
-  - **[Link]()**
-  - **Objective**:
-  - **Methods**:
-  - **Outcomes**:
-  - **Relation to the Project**:
+  - **[Link](https://doi.org/10.1016/j.jcp.2018.10.045)**
+  - **Objective**: To develop an adaptive active learning framework
+that transforms defect identification into an autonomous, intelligent search
+  - **Methods**: Physics-Informed Neural Networks (PINNs) to quantify epistemic uncertainty and dynamically guide sensor placement
+  - **Outcomes**: Achieved a 96% reduction in data requirements compared to standard baselines
+  - **Relation to the Project**: Inverse problems in Non-Destructive Testing (NDT) 
